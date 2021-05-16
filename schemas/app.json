@@ -1,0 +1,24 @@
+{
+  "_id": 0,
+  "title": "String",
+  "mainImage": "String",
+  "genre": ["Strings"],
+  "video": "String",
+  "images": ["Strings"],
+  "description": "String",
+  "more": "String",
+  "additional": {
+    "updated": "String",
+    "size": "String",
+    "installs": "String",
+    "version": "String",
+    "requires": "String",
+    "content": "String",
+    "elements": "String",
+    "products": "String",
+    "permission": "String",
+    "offeredBy": "String",
+    "developer": "String"
+  },
+  "group": ["String"]
+}

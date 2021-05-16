@@ -1,0 +1,15 @@
+{
+  "refId": "String",
+  "totalScore": "String",
+  "total": "String",
+  "reviews": [
+    {
+      "name": "String",
+      "profile": "String",
+      "stars": 0,
+      "date": "String",
+      "likes": "String",
+      "review": "String"
+    }
+  ]
+}

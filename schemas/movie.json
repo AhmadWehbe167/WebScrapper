@@ -1,0 +1,19 @@
+{
+  "title": "String",
+  "mainImage": "String",
+  "yearProduced": "String",
+  "duration": "String",
+  "price": "String",
+  "genre": ["Strings"],
+  "video": "String",
+  "description": "String",
+  "actors": "String",
+  "producers": "String",
+  "director": "String",
+  "additional": {
+    "quality": "String",
+    "audioLanguage": "String",
+    "subtitles": "String"
+  },
+  "group": ["String"]
+}

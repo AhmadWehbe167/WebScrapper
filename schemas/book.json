@@ -1,0 +1,21 @@
+{
+  "_id": 0,
+  "title": "String",
+  "mainImage": "String",
+  "creator": "String",
+  "date": "String",
+  "genre": ["Strings"],
+  "price": "String",
+  "description": "String",
+  "more": "String",
+  "additional": {
+    "publisher": "String",
+    "published on": "String",
+    "pages": "String",
+    "ISBN": "String",
+    "features": "String",
+    "language": "String",
+    "bestfor": "String"
+  },
+  "group": "String"
+}
